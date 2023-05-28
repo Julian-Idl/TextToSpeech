@@ -1,4 +1,4 @@
-# **TextToSpeech**
+# **Text-Speech Converter**
 
 <p align = "center"><img src = "./assets/images/6_m_1_efec69ffb1.png" height = 400 alt = "Wallet Icon"></p>
 
