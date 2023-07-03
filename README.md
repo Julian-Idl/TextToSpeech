@@ -31,10 +31,10 @@ A project that converts any text into audio speech with just a push of a button.
 **v.0.0.1**
 
 
-<p align = "center"><img src = "./assets/images/defaultpreview.png" height = 300 width = 450 alt = "AITranscriber Snapshotv1"></p>
+<p align = "center"><img src = "./assets/images/DefaultPreview.png" height = 300 width = 450 alt = "AITranscriber Snapshotv1"></p>
 
 **v.0.0.1** (Sample Text)
-<p align = "center"><img src = "./assets/images/textpreview.png" height = 300 width = 450 alt = "AITranscriber Snapshot v1"></p>
+<p align = "center"><img src = "./assets/images/TextPreview.png" height = 300 width = 450 alt = "AITranscriber Snapshot v1"></p>
 
 **Click [`Here`](https://text2speech.julianidl.repl.co) For Live Demo**
 
